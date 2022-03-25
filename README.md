@@ -3,8 +3,6 @@
 Web app that digitize herbarium specimens to capture data in a SQL database and generate a recommendation system for species classification.
 
 
-for 
-
 ## Libraries
 * Django
 * Pillow
