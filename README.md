@@ -1,6 +1,9 @@
 # Semeel jak - Means "forest" in Kiliwa language.
 
-Web app that bridges open research data with the gbif api and recommends datasets, taxa and geographies for novel research.
+Web app that digitize herbarium specimens to capture data in a SQL database and generate a recommendation system for species classification.
+
+
+for 
 
 ## Libraries
 * Django
@@ -18,3 +21,10 @@ Web app that bridges open research data with the gbif api and recommends dataset
 * [ ] Backend arquitecture design document
 * [ ] TDD document
 * [ ] Project calendar
+
+
+## Functionalities
+
+* [ ] OCR occurrence data
+* [ ] Classify image
+* [ ] Bridges open research data with the gbif api and recommends datasets, taxa and geographies for novel research.
